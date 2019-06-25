@@ -1,4 +1,4 @@
-# Typescript Mongoose NextJS Redux simple App
+# Typescript NextJS Redux simple App
 
 ### Prerequisites
 
@@ -14,20 +14,6 @@ $ npm install
 ```
 $ npm install --save-dev husky prettier-eslint
 ```
-
-### Setting environment variable
-
-Only you will need to create in a ROOT directory, an new file called `.env` with the following information:
-
-```
-MONGODB_SCHEMA_NAME=articles-code-challenge
-MONGODB_URL=mongodb://localhost/articles-code-challenge
-INSERT_AUTHORS_AT_STARTUP=true
-```
-
-**NOTE**: In case that use `nvm` you will need to set by default  Node+6 (eg: `nvm alias default v10.8.0`)
-
-Also, you need to have installed MongoDB in your local environment. In case that you don't have installed yet, please follow this instructions [Install MongoDB](https://docs.mongodb.com/manual/installation/).
 
 ### Starting the application
 
