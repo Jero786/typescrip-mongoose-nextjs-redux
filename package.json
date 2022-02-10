@@ -38,7 +38,7 @@
         "next": "^8.1.0",
         "next-compose-plugins": "^2.2.0",
         "next-redux-wrapper": "^3.0.0-alpha.3",
-        "node-sass": "^4.12.0",
+        "node-sass": "^7.0.0",
         "querystring": "^0.2.0",
         "react": "^16.8.6",
         "react-addons-test-utils": "^15.6.2",
